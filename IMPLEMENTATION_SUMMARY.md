@@ -30,7 +30,3 @@ This project now includes the core cryptocurrency trade execution flow for the a
   - successful SELL execution
   - insufficient balance rejection
 
-## Notes
-- The implementation follows the existing project structure and current MyBatis/Spring Boot patterns.
-- The trade API is designed to work with the current schema and seeded data for BTCUSDT and ETHUSDT.
-- The requirement for a full Maven verification run depends on having the Java 21 toolchain and Maven wrapper or Maven CLI installed in the local environment.
